@@ -98,8 +98,4 @@ public class Bootcamp {
 		return true;
 	}
 	
-	
-	
-	
-	
 }
